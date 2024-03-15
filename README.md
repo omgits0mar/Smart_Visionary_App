@@ -6,7 +6,8 @@
 3. [Workflow](#workflow)
 4. [Usage](#usage)
 5. [Voice Commands](#voice-commands)
-6. [Backend](#backend)
+6. [Demo](#demo)
+7. [Backend](#backend)
 
 #### Overview
 The frontend for the Smart Visionary application, designed to assist the visually impaired and blind. This Flutter application connects to the backend and facilitates user interaction via voice commands and taps.
@@ -34,6 +35,15 @@ The app is able to recognize any sentence containing any of these trigger words
 5. **Introduction** - Used to display a how-to-use audio introduction.
 6. **Arabi** - Used to translate the most recent audio output that has been displayed to the Arabic language.
 7. **Skip** - Used when there is a stranger (a new face has been detected) and the user doesn't want to add him to the familiar faces list.
+
+
+#### Demo
+
+
+https://github.com/Rehab112/Smart_Visionary_App/assets/61554937/665be0b2-f5cd-47ec-a645-440d2add7924
+
+
+https://github.com/Rehab112/Smart_Visionary_App/assets/61554937/f2938f90-b521-49bc-82b7-5a9c09301ecf
 
 
 
